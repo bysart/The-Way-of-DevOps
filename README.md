@@ -49,7 +49,7 @@
 
 ### О методологической базе
 Все рекомендации и путь развития построен на базе собственного опыта, а также опыта других инженеров.  
-В качестве методологической базы используются [SFIA DevOps View](https://sfia-online.org/en/tools-and-resources/sfia-views/devops-skills-in-sfia) и [SFIA DevOps Skills](https://sfia-online.org/en/legacy-sfia/sfia-7/sfia-views/devops-view?path=/glance)
+В качестве методологической базы используются [SFIA DevOps View](https://sfia-online.org/en/tools-and-resources/sfia-views/devops-skills-in-sfia), и [SFIA DevOps Skills](https://sfia-online.org/en/legacy-sfia/sfia-7/sfia-views/devops-view?path=/glance), и [SFIA 8](https://sfia-online.org/en/sfia-8)
 
 ---
 # The way of DevOps
